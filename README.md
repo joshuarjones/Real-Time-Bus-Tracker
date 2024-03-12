@@ -1,7 +1,7 @@
 # Real-Time-Bus-Tracker
 
 ## Description
-Real time tracking of a bus route in the Boston MTA from MIT to Harvard. This app uses the Google Maps API and real time API call to Boston MTA.
+Real-time tracking of a bus route in the Boston MTA from MIT to Harvard. This app uses the Google Maps API and real-time API call to Boston MTA.
 
 ## Improvements
 • Change the font color of the text in the button.
